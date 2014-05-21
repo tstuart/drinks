@@ -10,4 +10,8 @@
 
 * Gin
 
+## Required:
+
+* 16 oz glass
+
 
